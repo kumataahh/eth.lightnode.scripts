@@ -19,12 +19,3 @@ console
 
 
 
-
-# ./geth --syncmode light \
-# --http \
-# --http.port 8545 \
-# --http.addr 0.0.0.0 \
-# --http.corsdomain "*" \
-# --http.api "eth,net,web3" \
-# --datadir data \
-# console
