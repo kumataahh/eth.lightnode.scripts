@@ -4,6 +4,9 @@
 
 
 # light mode start
+sync mode  |  testnet  |  explorer
+-----------|-----------|----------
+light      |ropsten    |https://ropsten.etherscan.io
 
 ```
 ./node.light.start.sh

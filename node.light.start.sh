@@ -1,6 +1,6 @@
 #/bin/bash
 
-./geth --testnet --syncmode light \
+./geth --ropsten --syncmode light \
 --cache 1024 \
 --port 30303 \
 --http \
