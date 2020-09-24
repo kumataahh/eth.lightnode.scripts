@@ -8,9 +8,9 @@ Use as a Ethereum lightweight node, default ropsten.
 
 # Getting Started
 
-sync mode  |  test net  |  explorer
------------|------------|----------
-light      |ropsten     |https://ropsten.etherscan.io
+- sync mode: light
+- testnet: ropsten
+- explorer: https://ropsten.etherscan.io
 
 ```
 ./node.light.start.sh
